@@ -1,0 +1,62 @@
+{
+  "name": "Monokai Materia Kai",
+  "dark": false,
+  "author": "Pete Adriano DeBiase",
+  "editorScheme": "/Monokai_Materia_Kai.xml",
+
+  "colors": {
+    "bg_lt"     : "#4e4f4a",
+    "bg"        : "#272822",
+    "bg_dk"     : "#1d1e19",
+    "bg_vdk"    : "#121310",
+    "fg_lt"     : "#f9f9f5",
+    "fg"        : "#f8f8f2",
+    "fg_dk"     : "#b5b5b1",
+    "slkn"      : "#49483e",
+    "slkn_br"   : "#ffffff16",
+    "stk_gd"    : "#ffffff40",
+    "cmt"       : "#75715e",
+    "cmt_lt"    : "#88836d",
+    "cmt_dk"    : "#39372D",
+
+    "green_vlt" : "#caee81",
+    "green_lt"  : "#bee967",
+    "green"     : "#aeea00",
+    "green_dk"  : "#88b926",
+    "green_vdk" : "#5c7a00",
+
+    "black"     : "#040404",
+    "black_lt"  : "#090300",
+    "red"       : "#f94989",
+    "red_lt"    : "#fa7aa9",
+    "red_dk"    : "#7b354b",
+    "red_vdk"   : "#77042e",
+
+    "yellow_vdk": "#b87a00",
+    "yellow_dk" : "#e09600",
+    "yellow"    : "#ffb217",
+    "yellow_lt" : "#ffc95c",
+    "yellow_vlt": "#ffcf70",
+
+    "blue"      : "#528bff",
+    "blue_lt"   : "#81aaff",
+    "purple"    : "#ae81ff",
+    "purple_lt" : "#c4a3ff",
+    "cyan"      : "#66d9ef",
+    "cyan_lt"   : "#8fe3f3",
+    "white"     : "#f8f8f2",
+    "white_lt"  : "#f9f9f5",
+  },
+
+  "ui": {
+    "*": {
+    }
+  },
+
+  "icons": {
+    "ColorPalette": {
+      "Actions.Blue": "#5BC0DE"
+    }
+  }
+
+}
