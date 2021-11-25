@@ -21,7 +21,7 @@ See the README inside the app-specific subdirectories for instructions on usage 
 Pull requests for unsupported apps are welcome. I spend almost all day in the apps above and do not plan to expand support to other apps at this time.
 
 ## License
-Monokai Materia Kai is distributed under the terms of the GNU General Public License, version 2 or later. See the COPYING file for details.
+Monokai Materia Kai is distributed under the terms of the GNU General Public License, version 2 or later. See the LICENSE file for details.
 
 ## Acknowledgment
 - [Original Monokai color scheme](https://monokai.pro/)
