@@ -5,7 +5,7 @@ Themes and color schemes inspired by Monokai, Materia GTK, Material Design, and 
 Because computing can be fun and simple and colorful and make people happy :) .
 
 ## Supported Apps + Previews
-- IntelliJ (UI theme and editor color scheme)
+- IntelliJ IDEA (UI theme and editor color scheme)
 - Sublime Text 4 (UI theme (WIP) and editor color scheme)
 - Windows Terminal (color scheme)
 
