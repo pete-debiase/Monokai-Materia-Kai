@@ -14,6 +14,9 @@ The Monokai Materia Kai color palette was originally born as a color scheme for 
 
 Note that several colors are named semantically by intended use (background, selection, comment, etc.).
 
+## Usage
+See the README inside the app-specific subdirectories for instructions on usage in each app.
+
 ## Contributing
 Pull requests for unsupported apps are welcome. I spend almost all day in the apps above and do not plan to expand support to other apps at this time.
 
