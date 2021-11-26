@@ -119,6 +119,9 @@
       "modifiedItemForeground": "purple"
     },
 
+    "TitlePane.infoForeground": "fg_dk",
+    "TitlePane.inactiveInfoForeground": "cmt",
+
     "ActionButton": {
       "hoverBackground": "slkn",
       "hoverBorderColor": "slkn",
