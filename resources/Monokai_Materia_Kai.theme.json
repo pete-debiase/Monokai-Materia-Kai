@@ -14,9 +14,9 @@
 
     // Foreground
     "fg_vlt"    : "#ffffff",
-    "fg_lt"     : "#f9f9f5",
-    "fg"        : "#f8f8f2",
-    "fg_dk"     : "#b5b5b1",
+    "fg_lt"     : "#f8f8f2",
+    "fg"        : "#f1f1e4", // Traditionally #f8f8f2, this *just* takes the edge off.
+    "fg_dk"     : "#c5c5be",
     "fg_vdk"    : "#888881",
 
     // Comment
@@ -34,8 +34,8 @@
     "stk_gd"    : "#ffffff40",
 
     // Colors
-    "white_lt"  : "#f9f9f5",
-    "white"     : "#f8f8f2",
+    "white_lt"  : "#f8f8f2",
+    "white"     : "#f1f1e4",
     "black_lt"  : "#1d1e19",
     "black"     : "#121310",
 
