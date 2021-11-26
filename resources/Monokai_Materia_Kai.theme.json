@@ -6,8 +6,8 @@
 
   "colors": {
     // Background
-    "bg_vlt"    : "#767967",
-    "bg_lt"     : "#4b4d42",
+    "bg_vlt"    : "#4b4d42",
+    "bg_lt"     : "#2e2f29",
     "bg"        : "#272822",
     "bg_dk"     : "#1d1e19",
     "bg_vdk"    : "#121310",
