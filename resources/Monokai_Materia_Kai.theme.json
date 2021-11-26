@@ -71,9 +71,9 @@
 
     "blue_vlt"  : "#c2d6ff",
     "blue_lt"   : "#81aaff",
-    "blue_vdk"  : "#528bff",
+    "blue"      : "#528bff",
     "blue_dk"   : "#1f69ff",
-    "blue"      : "#0044cc"
+    "blue_vdk"  : "#0044cc"
   },
 
   "ui": {
