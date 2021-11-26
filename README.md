@@ -6,7 +6,7 @@ Because computing can be fun and simple and colorful and make people happy :) .
 
 ## Supported Apps + Previews
 - IntelliJ IDEA (UI theme and editor color scheme)
-- Sublime Text 4 (UI theme (WIP) and editor color scheme)
+- Sublime Text 4 (UI theme and editor color scheme) (WIP)
 - Windows Terminal (color scheme)
 
 ## Color Palette
