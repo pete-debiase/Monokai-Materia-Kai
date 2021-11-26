@@ -1,0 +1,76 @@
+// Monokai Materia Kai Color Palette
+// Pete Adriano DeBiase
+// Created: 2018/09/30
+
+// Use https://coolors.co for generating shades for each color.
+{
+  // Background
+  "bg_vlt"    : "#767967",
+  "bg_lt"     : "#4b4d42",
+  "bg"        : "#272822",
+  "bg_dk"     : "#1d1e19",
+  "bg_vdk"    : "#121310",
+
+  // Foreground
+  "fg_vlt"    : "#ffffff",
+  "fg_lt"     : "#f9f9f5",
+  "fg"        : "#f8f8f2",
+  "fg_dk"     : "#b5b5b1",
+  "fg_vdk"    : "#888881",
+
+  // Comment
+  "cmt_vlt"   : "#bfbdb0",
+  "cmt_lt"    : "#88836d",
+  "cmt"       : "#75715e",
+  "cmt_dk"    : "#39372d",
+  "cmt_vdk"   : "#171612",
+
+  // Selection
+  "slkn"      : "#49483e",
+  "slkn_bdr"  : "#ffffff16",
+
+  // Stack Guide
+  "stk_gd"    : "#ffffff40",
+
+  // Colors
+  "white_lt"  : "#f9f9f5",
+  "white"     : "#f8f8f2",
+  "black_lt"  : "#1d1e19",
+  "black"     : "#121310",
+
+  "green_vlt" : "#caee81",
+  "green_lt"  : "#bee967",
+  "green"     : "#aeea00", // Traditionally #a6e22e, which feels slightly too flat.
+  "green_dk"  : "#88b926",
+  "green_vdk" : "#5c7a00",
+
+  "yellow_vlt": "#ffcf70",
+  "yellow_lt" : "#ffc95c",
+  "yellow"    : "#ffb217",
+  "yellow_dk" : "#e09600",
+  "yellow_vdk": "#b87a00",
+
+  "red_vlt"   : "#fc9cbf",
+  "red_lt"    : "#fa7aa9",
+  "red"       : "#f94989", // Traditionally #f92672, which feels slightly too aggressive.
+  "red_dk"    : "#7b354b",
+  "red_vdk"   : "#77042e",
+
+  "cyan_vlt"  : "#b5ecf7",
+  "cyan_lt"   : "#8fe3f3",
+  "cyan"      : "#66d9ef",
+  "cyan_dk"   : "#34cbea",
+  "cyan_vdk"  : "#15adcb",
+
+  "purple_vlt": "#d7c2ff",
+  "purple_lt" : "#c4a3ff",
+  "purple"    : "#ae81ff",
+  "purple_dk" : "#8847ff",
+  "purple_vdk": "#600aff",
+
+  "blue_vlt"  : "#c2d6ff",
+  "blue_lt"   : "#81aaff",
+  "blue_vdk"  : "#528bff",
+  "blue_dk"   : "#1f69ff",
+  "blue"      : "#0044cc",
+}
