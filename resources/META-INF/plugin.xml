@@ -1,17 +1,15 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
-  <name>Plugin display name here</name>
+  <id>industries.AO.monokaimateriakai</id>
+  <name>Monokai Materia Kai</name>
   <version>1.0</version>
-  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <vendor email="peter.adriano.debiase@gmail.com" url="https://www.linkedin.com/in/peteradrianodebiase/">Pete DeBiase</vendor>
 
   <description><![CDATA[
-      Enter short description for your plugin here.<br>
-      <em>most HTML tags may be used</em>
+      Monokai Materia Kai theme for IntelliJ IDEA. Inspired by the original Monokai color scheme and the Materia GTK theme.<br>
     ]]></description>
 
   <change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
+      None yet.<br>
     ]]>
   </change-notes>
 
