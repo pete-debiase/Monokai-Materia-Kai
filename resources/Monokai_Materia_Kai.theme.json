@@ -82,14 +82,14 @@
       "background": "bg",
       "foreground": "fg_dk",
 
-      "infoForeground": "bg_vlt",
+      "infoForeground": "fg",
 
       "selectionBackground": "slkn",
       "selectionForeground": "fg",
       "selectionInactiveBackground": "bg",
       "selectionBackgroundInactive": "bg",
 
-      "lightSelectionBackground": "bg_vlt",
+      "lightSelectionBackground": "slkn",
       "lightSelectionForeground": "fg",
       "lightSelectionInactiveBackground": "bg",
       "lightSelectionInactiveForeground":"fg",
@@ -176,7 +176,7 @@
       "warningFocusColor": "yellow",
       "inactiveWarningFocusColor": "yellow_lt",
       "iconColor": "bg_vlt",
-      "hoverIconColor": "bg_vlt"
+      "hoverIconColor": "slkn"
     },
 
     "Counter": {
@@ -270,6 +270,8 @@
       "currentOverloadBackground": "bg_vlt",
       "currentParameterForeground": "fg"
     },
+
+    "Plugins.hoverBackground": "slkn",
 
     "Plugins": {
       "Tab": {
@@ -396,14 +398,14 @@
 
       "HeaderTab": {
         "selectedInactiveBackground": "bg",
-        "hoverBackground": "bg_vlt",
+        "hoverBackground": "slkn",
         "hoverInactiveBackground": "bg"
       },
 
       "Button": {
         "hoverBackground": "slkn",
         "selectedBackground": "slkn",
-        "selectedForeground": "bg_vlt"
+        "selectedForeground": "fg"
       }
     },
 
