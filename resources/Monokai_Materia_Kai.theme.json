@@ -140,10 +140,10 @@
 
       "default": {
         "foreground": "fg",
-        "startBackground": "cyan",
-        "endBackground": "cyan",
-        "startBorderColor": "cyan",
-        "endBorderColor": "cyan",
+        "startBackground": "#aeea00e0",
+        "endBackground": "#aeea00e0",
+        "startBorderColor": "#aeea00e0",
+        "endBorderColor": "#aeea00e0",
         "focusedBorderColor": "fg",
         "focusColor": "#4e4f4a",
         "shadowColor": "bg"
@@ -186,10 +186,8 @@
 
     "DebuggerPopup.borderColor": "bg",
 
-    "DebuggerTabs.selectedBackground": "#4e4f4a",
-
     "DefaultTabs": {
-      "underlineColor": "green",
+      "underlineColor": "bg",
       "inactiveUnderlineColor": "bg",
       "underlineHeight": 2,
       "hoverBackground": "slkn"
@@ -210,15 +208,14 @@
     "EditorPane.inactiveBackground": "bg",
 
     "EditorTabs": {
-      "selectedForeground": "fg",
-      "selectedBackground": "bg",
-      "underlineColor": "green",
-      "inactiveMaskColor": "slkn",
-      "borderColor": "#4e4f4a",
+      "borderColor": "bg",
+      "background": "bg_lt",
+      "hoverBackground": "slkn",
       "underlinedTabBackground": "bg",
       "underlinedTabForeground": "fg",
-      "underlineHeight": 2,
-      "inactiveUnderlineColor": "fg_dk"
+      "inactiveUnderlineColor": "fg_dk",
+      "underlineColor": "green",
+      "underlineHeight": 2
     },
 
     "FileColor": {
@@ -301,7 +298,7 @@
     "Popup": {
       "paintBorder": true,
       "borderColor": "#4e4f4a",
-      "inactiveBorderColor": "bg",
+      "inactiveBorderColor": "bg_lt",
       "Toolbar.borderColor": "bg_dk",
       "Header.activeBackground": "bg",
       "Header.inactiveBackground": "bg",
