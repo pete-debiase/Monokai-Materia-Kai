@@ -40,7 +40,7 @@
 
   "green_vlt" : "#caee81",
   "green_lt"  : "#bee967",
-  "green"     : "#aeea00", // Traditionally #a6e22e, which feels slightly too flat.
+  "green"     : "#a6e22e",
   "green_dk"  : "#88b926",
   "green_vdk" : "#5c7a00",
 
