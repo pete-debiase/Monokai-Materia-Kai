@@ -243,7 +243,7 @@
 
     "Notification": {
       "background": "bg",
-      "borderColor": "bg_vlt",
+      "borderColor": "bg_lt",
 
       "errorForeground": "fg",
       "errorBackground": "red",
@@ -254,7 +254,7 @@
       "ToolWindow": {
         "informativeForeground": "fg_dk",
         "informativeBackground": "bg",
-        "informativeBorderColor": "bg_vlt",
+        "informativeBorderColor": "bg_lt",
 
         "warningForeground": "fg",
         "warningBackground": "yellow",
