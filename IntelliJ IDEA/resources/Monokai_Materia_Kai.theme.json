@@ -107,15 +107,15 @@
 
       "errorForeground": "red",
 
-      "borderColor": "bg_vlt",
-      "disabledBorderColor": "bg_vlt",
+      "borderColor": "bg_lt",
+      "disabledBorderColor": "bg_lt",
 
-      "focusColor": "bg_vlt",
-      "focusedBorderColor": "bg_vlt",
+      "focusColor": "bg_lt",
+      "focusedBorderColor": "bg_lt",
 
-      "separatorForeground": "bg_vlt",
-      "separatorColor": "bg_vlt",
-      "lineSeparatorColor": "bg_vlt",
+      "separatorForeground": "bg_lt",
+      "separatorColor": "bg_lt",
+      "lineSeparatorColor": "bg_lt",
 
       "modifiedItemForeground": "purple"
     },
@@ -140,7 +140,7 @@
       "endBackground": "slkn",
       "startBorderColor": "slkn",
       "endBorderColor": "slkn",
-      "focusedBorderColor": "bg_vlt",
+      "focusedBorderColor": "bg_lt",
 
       "default": {
         "foreground": "fg",
@@ -149,7 +149,7 @@
         "startBorderColor": "#aeea00e0",
         "endBorderColor": "#aeea00e0",
         "focusedBorderColor": "fg",
-        "focusColor": "bg_vlt",
+        "focusColor": "bg_lt",
         "shadowColor": "bg_dk"
       }
     },
@@ -188,7 +188,7 @@
       "foreground": "bg_vdk"
     },
 
-    "DebuggerPopup.borderColor": "bg",
+    "DebuggerPopup.borderColor": "bg_lt",
 
     "DefaultTabs": {
       "underlineColor": "bg",
@@ -230,7 +230,7 @@
       "Rose": "red"
     },
 
-    "InplaceRefactoringPopup.borderColor": "bg",
+    "InplaceRefactoringPopup.borderColor": "blue",
 
     "Link": {
       "activeForeground": "blue",
@@ -239,7 +239,7 @@
       "visitedForeground": "blue"
     },
 
-    "NavBar.borderColor": "bg_dk",
+    "NavBar.borderColor": "bg_lt",
 
     "Notification": {
       "background": "bg",
@@ -249,7 +249,7 @@
       "errorBackground": "red_dk",
       "errorBorderColor": "red_vdk",
 
-      "MoreButton.innerBorderColor": "bg_dk",
+      "MoreButton.innerBorderColor": "bg_lt",
 
       "ToolWindow": {
         "informativeForeground": "fg_dk",
@@ -283,7 +283,7 @@
         "hoverBackground": "slkn"
       },
 
-      "SearchField.borderColor": "bg_vlt",
+      "SearchField.borderColor": "bg_lt",
       "SearchField.background": "bg",
       "SectionHeader.background": "bg",
       "tagBackground": "bg_vlt",
@@ -291,20 +291,20 @@
 
       "Button": {
         "installForeground": "fg",
-        "installBorderColor":"bg_vlt",
+        "installBorderColor":"bg_lt",
         "installFillForeground": "fg",
         "installFillBackground": "purple",
         "updateForeground":"fg",
         "updateBackground": "bg_vlt",
-        "updateBorderColor": "bg_vlt"
+        "updateBorderColor": "bg_lt"
       }
     },
 
     "Popup": {
       "paintBorder": true,
-      "borderColor": "bg_vlt",
+      "borderColor": "bg_lt",
       "inactiveBorderColor": "bg_lt",
-      "Toolbar.borderColor": "bg_dk",
+      "Toolbar.borderColor": "bg_lt",
       "Header.activeBackground": "bg",
       "Header.inactiveBackground": "bg",
       "Advertiser": {
@@ -339,7 +339,7 @@
       },
       "SearchField":{
         "background": "bg",
-        "borderColor": "bg_dk"
+        "borderColor": "bg_lt"
       },
       "Advertiser.foreground": "fg_vdk"
     },
@@ -351,12 +351,12 @@
 
     "SpeedSearch": {
       "foreground": "fg",
-      "borderColor": "bg_vlt",
+      "borderColor": "bg_lt",
       "background": "bg",
       "errorForeground": "red_lt"
     },
 
-    "StatusBar.borderColor": "bg_dk",
+    "StatusBar.borderColor": "bg_lt",
 
     "TabbedPane": {
       "underlineColor": "green",
@@ -384,7 +384,7 @@
       "offForeground": "fg_dk",
       "offBackground": "bg",
       "buttonColor": "slkn",
-      "borderColor": "bg_vlt"
+      "borderColor": "bg_lt"
     },
 
     "ToolTip": {
