@@ -233,10 +233,10 @@
     "InplaceRefactoringPopup.borderColor": "bg",
 
     "Link": {
-      "activeForeground": "blue_lt",
-      "hoverForeground": "blue_lt",
-      "pressedForeground": "blue_lt",
-      "visitedForeground": "blue_lt"
+      "activeForeground": "blue",
+      "hoverForeground": "blue",
+      "pressedForeground": "blue",
+      "visitedForeground": "blue"
     },
 
     "NavBar.borderColor": "bg_dk",
@@ -246,8 +246,8 @@
       "borderColor": "bg_lt",
 
       "errorForeground": "fg",
-      "errorBackground": "red",
-      "errorBorderColor": "red_dk",
+      "errorBackground": "red_dk",
+      "errorBorderColor": "red_vdk",
 
       "MoreButton.innerBorderColor": "bg_dk",
 
@@ -257,12 +257,12 @@
         "informativeBorderColor": "bg_lt",
 
         "warningForeground": "fg",
-        "warningBackground": "yellow",
-        "warningBorderColor": "yellow",
+        "warningBackground": "yellow_dk",
+        "warningBorderColor": "yellow_vdk",
 
         "errorForeground": "fg",
-        "errorBackground": "red",
-        "errorBorderColor": "red_dk"
+        "errorBackground": "red_dk",
+        "errorBorderColor": "red_vdk"
       }
     },
 
@@ -415,10 +415,10 @@
     "Tree.rowHeight": 20,
 
     "ValidationTooltip": {
-      "errorBackground": "red",
-      "errorBorderColor": "red",
-      "warningBackground": "yellow",
-      "warningBorderColor": "yellow"
+      "errorBackground": "red_dk",
+      "errorBorderColor": "red_vdk",
+      "warningBackground": "yellow_dk",
+      "warningBorderColor": "yellow_vdk"
     },
 
     "VersionControl": {
