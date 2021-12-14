@@ -199,8 +199,7 @@
 
     "DragAndDrop": {
       "areaForeground": "bg",
-      "areaBackground": "cyan",
-      "areaBorderColor": "cyan_vdk"
+      "areaBackground": "slkn"
     },
 
     "Editor": {
