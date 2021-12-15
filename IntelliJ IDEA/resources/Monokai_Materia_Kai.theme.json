@@ -274,6 +274,8 @@
       "currentParameterForeground": "fg"
     },
 
+    "VersionControl.Log.Commit.hoveredBackground": "slkn",
+
     "Plugins.hoverBackground": "slkn",
 
     "Plugins": {
