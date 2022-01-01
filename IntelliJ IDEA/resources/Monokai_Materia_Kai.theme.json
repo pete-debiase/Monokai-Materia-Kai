@@ -1,4 +1,7 @@
 // ***NOTE: Comments in this file must be removed before building the plug-in.***
+// Available keys:
+// https://github.com/JetBrains/intellij-community/blob/master/platform/platform-resources/src/themes/metadata/IntelliJPlatform.themeMetadata.json
+// https://github.com/JetBrains/intellij-community/blob/master/platform/platform-resources/src/themes/metadata/JDK.themeMetadata.json
 {
   "name": "Monokai Materia Kai",
   "dark": true,
