@@ -116,9 +116,9 @@
       "focusColor": "bg_lt",
       "focusedBorderColor": "bg_lt",
 
-      "separatorForeground": "bg_lt",
-      "separatorColor": "bg_lt",
-      "lineSeparatorColor": "bg_lt",
+      "separatorForeground": "cmt_dk",
+      "separatorColor": "cmt_dk",
+      "lineSeparatorColor": "cmt_dk",
 
       "modifiedItemForeground": "purple"
     },
@@ -221,7 +221,7 @@
       "underlinedTabForeground": "fg",
       "inactiveUnderlineColor": "fg_dk",
       "underlineColor": "green",
-      "underlineHeight": 2
+      "underlineHeight": 0
     },
 
     "FileColor": {
@@ -400,15 +400,20 @@
 
     "ToolWindow": {
       "Header": {
-        "inactiveBackground": "bg",
-        "background": "bg",
+        "inactiveBackground": "bg_lt",
+        "background": "bg_lt",
         "borderColor": "slkn"
       },
 
       "HeaderTab": {
+        "hoverBackground": "bg",
+        "hoverInactiveBackground": "slkn",
+        "inactiveUnderlineColor": "fg_dk",
         "selectedInactiveBackground": "bg",
-        "hoverBackground": "slkn",
-        "hoverInactiveBackground": "bg"
+        "underlineColor": "green",
+        "underlineHeight": 0,
+        "underlinedTabBackground": "bg",
+        "underlinedTabInactiveBackground": "bg"
       },
 
       "Button": {
