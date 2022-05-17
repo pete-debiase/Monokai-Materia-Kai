@@ -366,7 +366,8 @@
     "TabbedPane": {
       "underlineColor": "green",
       "disabledUnderlineColor": "fg_vdk",
-      "contentAreaColor": "bg_dk"
+      "contentAreaColor": "bg_dk",
+      "hoverColor": "slkn"
     },
 
     "TableHeader.cellBorder": "3,0,3,0",
