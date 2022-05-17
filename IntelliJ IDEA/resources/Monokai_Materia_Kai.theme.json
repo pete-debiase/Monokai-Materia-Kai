@@ -147,10 +147,10 @@
 
       "default": {
         "foreground": "fg",
-        "startBackground": "#aeea00e0",
-        "endBackground": "#aeea00e0",
-        "startBorderColor": "#aeea00e0",
-        "endBorderColor": "#aeea00e0",
+        "startBackground": "#a6e22ee0",
+        "endBackground": "#a6e22ee0",
+        "startBorderColor": "#a6e22ee0",
+        "endBorderColor": "#a6e22ee0",
         "focusedBorderColor": "fg",
         "focusColor": "bg_lt",
         "shadowColor": "bg_dk"
@@ -447,7 +447,7 @@
       "Actions.Grey": "#b5b5b1",
       "Actions.Red": "#f94989",
       "Actions.Yellow": "#ffc756",
-      "Actions.Green": "#aeea00",
+      "Actions.Green": "#a6e22e",
       "Actions.Blue": "#66d9ef",
       "Actions.GreyInline.Dark": "#49483e",
 
